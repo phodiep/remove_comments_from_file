@@ -1,0 +1,53 @@
+
+
+
+markers:
+	// ... \n
+	/* ... */
+
+	// ... \r\n
+
+
+tests
+
+	///
+
+
+	no comments
+
+
+	// ... \n
+
+
+
+	// ... \r\n
+
+
+	/* ... */
+
+
+	// kajvacv \\n akdfjakjcv ... (\n)
+
+
+
+	// ... (end of doc)
+
+
+	asdf // asdf/* // asdf * / asdf
+
+	asdf /* * / / asdfasfd */\nasdf
+
+	asdf /* asdf /* // asdfasf */  asdf
+
+	asdf // asdf\n
+
+	i = /* a comment */ x + 3;
+
+adjfsfk /*
+* akjck
+
+* asdf // asdf
+*/ here it goes!!! ///akjfkv
+
+
+del says run again
